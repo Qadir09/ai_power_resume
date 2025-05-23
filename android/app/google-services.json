@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "446638575430",
+    "project_id": "ai-powerrusme",
+    "storage_bucket": "ai-powerrusme.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:446638575430:android:b293e6e1e982bab050df47",
+        "android_client_info": {
+          "package_name": "com.example.ai_power_resume"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlAVlyXkIJCuaTFA2mhphRs5DFKAwCNnI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
